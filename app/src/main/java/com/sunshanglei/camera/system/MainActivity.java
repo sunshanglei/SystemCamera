@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int SQUARE_CAMERA_PRE=3;//跳到正方形请求码
     private static final int SQUARE_CAMERA=4;//正方形请求码
     private ImageView iv;
-    private String pathTemp,filePath;
+    private String filePath;
     private File file,fileTemp;
     private String temp="temp.png",picTemp="picTemp.png";
 
